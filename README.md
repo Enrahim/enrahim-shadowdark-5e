@@ -1,0 +1,4 @@
+***Proof of concept for shadowdark using 5ed***
+This currently provide a simplified 5ed sheet tailored for shadowdark play. The hope is that this can work as a proof of concept for how a more full system implementation might get a strong head start by utilising the power of an existing mature system rather than start from scratch.
+
+I don't expect to have time to expand or maintain this code. Furthermore I am in a position where it is not trivial for me to license code formally into open source. Hence I hope someone can take inspiration from the ideas here - that are quite simple, and start a new repo. I will be happy to link repo to any new repo based on those ideas if I am made aware of it. 
